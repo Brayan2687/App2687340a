@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944830908638",
+    "project_id": "desarrollomovilnativo1-2a53e",
+    "storage_bucket": "desarrollomovilnativo1-2a53e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944830908638:android:e0d80fb6c01fef44179a4f",
+        "android_client_info": {
+          "package_name": "co.edu.sena.appbrayanblanco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944830908638-19oj0p63bp773un0dm9l6mr9slljvtis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgcAqJJWSnOXO2UGlZ6Al508bLb9s4IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944830908638-19oj0p63bp773un0dm9l6mr9slljvtis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
